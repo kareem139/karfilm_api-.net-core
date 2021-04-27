@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Kareem\Desktop\myapi</_PublishTargetUrl>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="myconnetion">
+      <Value>workstation id=mydbkarapi.mssql.somee.com%3bpacket size=4096%3buser id=tata_SQLLogin_1%3bpwd=6usprs8gw3%3bdata source=mydbkarapi.mssql.somee.com%3bpersist security info=False%3binitial catalog=mydbkarapi</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
